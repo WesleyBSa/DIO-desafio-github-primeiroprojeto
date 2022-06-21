@@ -1,0 +1,8 @@
+CONFLITOS GIT GIHUB:
+
+git pull origin master: Puxa conteudo recente do repositório quando existe conflito de merge (conflito que aparece quando 2 pessoas alteraram os valores de uma mesma linha e deixam diferentes uma da outra)
+
+
+CLONAR GIT
+
+git clone link do repositório

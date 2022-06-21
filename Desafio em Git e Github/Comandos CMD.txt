@@ -1,0 +1,35 @@
+CMD- COMANDOS
+
+dir: lista de pastas.
+cd: lista a base do diretorio escolhido. EX: escrever "cd /" irá para a listagem do disco C. /// Para voltar um nível na pesquisa, digitar cd ..
+mkdir: criar pasta.
+echo > nome do arquivo.extenão : criar arquivo.
+del: excluir arquivo na pasta escolhida.
+rmdir: nome da pagina /S /Q - para excluir todos os arquivos e a pasta em questão.
+git init: inicializa um repositório GIT
+git add: adiciona o projeto ou processo               
+git add * : adiciona mais de um projeto da pasta no processo tracked, preparando para o commit.
+git commit: captura as mudanças do projeto
+ls: lista de arquivos
+ls -a : mostra item oculto na listagem
+mv: mover arquivo para uma ppasta.
+
+git add nome do arquivo
+
+git add*
+
+git commit -m "Informação sobre o arquivo"
+
+CICLO DE VIDA (resumo):
+
+git init: criamos um repositório.
+
+GIT PARA GITHUB
+
+git remote add origin(pode ser outro nome, é apenas um apelido para não precisar usar o link) link do repositório: Adicionar o repositório local no remoto.
+git remote -v: Verifica o repositório.
+git push origin(ou o nome selecionado) master: pede as credenciais para poder compartilhar o repositório local como remoto.
+
+
+
+
